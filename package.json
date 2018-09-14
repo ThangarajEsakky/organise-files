@@ -1,0 +1,27 @@
+{
+  "name": "organise-files",
+  "version": "1.0.0",
+  "description": "Command Line utility to organise files",
+  "main": "index.js",
+  "bin": {
+    "organise": "./bin/organise.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThangarajEsakky/organise-files.git"
+  },
+  "keywords": [
+    "node",
+    "organise",
+    "files"
+  ],
+  "author": "Thangaraj Esakky (thangarajesakky@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThangarajEsakky/organise-files/issues"
+  },
+  "homepage": "https://github.com/ThangarajEsakky/organise-files#readme"
+}
